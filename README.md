@@ -1,2 +1,3 @@
 # TWLS-MIP
-An effective MIP local search solver.
+The detailed result of paper.
+The code will be released after acceptance.
