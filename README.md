@@ -26,7 +26,7 @@ A precompiled executable `TWLS-MIP` is provided.
 Required Parameters
 
 --instance=[file]
-Path to the input MIP instance file (e.g., .mps, .lp).
+Path to the input MIP instance file (e.g., .mps).
 
 --cutoff=[time limit]
 Time limit in seconds.
